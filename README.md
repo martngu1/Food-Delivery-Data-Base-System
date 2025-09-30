@@ -9,7 +9,7 @@ It provides an interactive user interface that runs directly in your browser.
 ```bash
 git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
-
+```
 ### 2. Run the Streamlit app
 Enter the app.py file and write streamlit run app.py in the terminal/console.
 
