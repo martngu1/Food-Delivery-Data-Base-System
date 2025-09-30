@@ -1,0 +1,7 @@
+[theme]
+base = "light"
+primaryColor = "#FF914D"                 # Frisk oransje for knapper og lenker
+backgroundColor = "#FFF4E6"              # Lys krem-oransje bakgrunn
+secondaryBackgroundColor = "#FFE0B2"     # Blek oransje for bokser og paneler
+textColor = "#5B2C06"                    # Dyp brun-oransje tekst
+font = "sans serif"
